@@ -30,7 +30,7 @@ export default function Navbar({ onScroll }: NavbarProps) {
             <Icon name="Settings" size={16} className="text-primary" />
           </div>
           <span className="text-lg font-semibold tracking-widest uppercase" style={{ fontFamily: 'Oswald, sans-serif' }}>
-            Auto<span className="neon-text">Pro</span>
+            Pro<span className="neon-text">Auto</span>
           </span>
         </a>
 
